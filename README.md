@@ -10,14 +10,14 @@ I'm a junior Backend Developer
 * 🧠 I'm learning Software Engineer C# middle+
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/c%23/c%23.svg" width="51" height="51" alt="C#" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.png" width="51" height="51" alt="Git" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL" /></a>
+<a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/xamarin/xamarin.svg" width="51" height="51" /></a></p>
+<a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/java/java.png" width="51" height="51" /></a>
+<a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/javascript/javascript.png" width="51" height="51" /></a>
+<a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/python/python.png" width="51" height="51" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="45" height="45" alt=".NET" /></a>
 
 ### Badges
 
