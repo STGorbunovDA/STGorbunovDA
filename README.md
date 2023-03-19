@@ -25,7 +25,7 @@ I'm a junior Backend Developer
 
 <a href="http://www.github.com/STGorbunovDA"><img src="https://github-readme-stats-qdnx.vercel.app/api?username=STGorbunovDA&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="STGorbunovDA's GitHub stats" /> </a>
 
-<a href="https://github.com/STGorbunovDA" align="right"><img src="https://github-readme-stats-qdnx.vercel.app/api/top-langs/?username=STGorbunovDA&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/STGorbunovDA" align="right"><img src="https://github-readme-stats-qdnx.vercel.app/api/top-langs/?username=STGorbunovDA&hide=jupyter&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <a href="http://www.github.com/STGorbunovDA"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=STGorbunovDA&bg_color=22272e&color=ffffff&line=22c55e&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
