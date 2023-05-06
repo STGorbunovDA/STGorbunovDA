@@ -1,7 +1,7 @@
 Hi 👋 My name is Dmitry
 ====================
 
-I'm a junior Backend Developer
+I'm a Backend Developer
 ------------------------------
 
 * 🌍 I'm based in Nizhniy Novgorod
