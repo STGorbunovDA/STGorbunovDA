@@ -6,7 +6,7 @@ I'm a Developer-Programmer
 
 * 🌍 I'm based in Nizhniy Novgorod
 * ✉️ You can contact me at [bous07@mail.ru](mailto:bous07@mail.ru)
-* 🚀 I'm currently working on [ServisTelecom](http://github.com/STGorbunovDA/STelecom)
+* 🚀 I'm currently working on [ServisTelecom](https://github.com/STGorbunovDA/ServiceTelecom/tree/dev/ServiceTelecom)
 * 🧠 Learning C# every day
 
 <p align="left">
