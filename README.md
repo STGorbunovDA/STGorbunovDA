@@ -7,7 +7,7 @@ I'm a Developer-Programmer
 * 🌍 I'm based in Nizhniy Novgorod
 * ✉️ You can contact me at [bous07@mail.ru](mailto:bous07@mail.ru)
 * 🚀 I'm currently working on [ServisTelecom](http://github.com/STGorbunovDA/STelecom)
-* 🧠 I'm learning Software Engineer C# middle+
+* 🧠 Learning C# every day
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/c%23/c%23.svg" width="51" height="51" alt="C#" /></a>
