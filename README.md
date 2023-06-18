@@ -1,7 +1,7 @@
 Hi 👋 My name is Dmitry
 ====================
 
-I'm a Developer-Programmer
+I'm a Developer C#
 ------------------------------
 
 * 🌍 I'm based in Nizhniy Novgorod
