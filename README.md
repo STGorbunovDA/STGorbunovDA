@@ -9,6 +9,9 @@ I'm a Developer C#
 * 🚀 I currently work for [Transneft](https://uppervolga.transneft.ru/) as a Developer
 * 🧠 Learning C# every day
 
+### How to reach me :mailbox:
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DA_Gorbunov)
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="assets/c%23.svg" width="51" height="51" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/git-scm.png" width="51" height="51" alt="Git" /></a>
@@ -38,6 +41,3 @@ I'm a Developer C#
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DA_Gorbunov)
