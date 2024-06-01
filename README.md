@@ -10,7 +10,7 @@ I'm a Developer C#
 * 🧠 Learning C# every day
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/c%23/c%23.svg" width="51" height="51" alt="C#" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="assets/C#.svg" width="51" height="51" alt="C#" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.png" width="51" height="51" alt="Git" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL" /></a>
 <a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/xamarin/xamarin.svg" width="51" height="51" /></a></p>
@@ -27,7 +27,9 @@ I'm a Developer C#
 <a href="http://www.github.com/STGorbunovDA"><img src="https://github-readme-activity-graph.vercel.app/graph?username=STGorbunovDA&bg_color=22272e&color=ffffff&line=22c55e&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### How to reach me :mailbox:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DA_Gorbunov)
