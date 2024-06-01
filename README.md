@@ -5,12 +5,10 @@ I'm a Developer C#
 ------------------------------
 
 * 🌍 I'm based in Nizhniy Novgorod
-* ✉️ You can contact me at [bous07@mail.ru](mailto:bous07@mail.ru)
+* ✉️ You can contact me at [bous07@mail.ru](mailto:bous07@mail.ru) or [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DA_Gorbunov)
 * 🚀 I currently work for [Transneft](https://uppervolga.transneft.ru/) as a Developer
 * 🧠 Learning C# every day
-
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DA_Gorbunov)
+* 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="assets/c%23.svg" width="51" height="51" alt="C" /></a>
