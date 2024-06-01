@@ -10,8 +10,17 @@ I'm a Developer C#
 * 🧠 Learning C# every day
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="assets/C#.svg" width="51" height="51" alt="C#" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.png" width="51" height="51" alt="Git" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="assets/c%23.svg" width="51" height="51" alt="C" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/git-scm.png" width="51" height="51" alt="Git" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="assets/blazor.svg" width="51" height="51" alt="Blazor" /></a>
+
+<a href="https://www.microsoft.com/ru-ru/sql-server" target="_blank" rel="noreferrer"><img src="assets/MSSQL.svg" width="51" height="51" alt="MSSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="assets/mysql2.svg" width="51" height="51" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/PostgreSQL.svg" width="51" height="51" alt="MySQL" /></a>
+
+<a href="/" target="_blank" rel="noreferrer"><img src="assets/xamarin.svg" width="51" height="51" alt="MySQL" /></a>
+<a href="/" target="_blank" rel="noreferrer"><img src="assets/net-maui2.png" width="51" height="51" alt="MySQL" /></a>
+
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL" /></a>
 <a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/xamarin/xamarin.svg" width="51" height="51" /></a></p>
 <a href="https://www.github.com/STGorbunovDA" target="_blank" rel="noreferrer"><img src="https://github.com/STGorbunovDA/README_icons/blob/main/language_and_tools/square/java/java.png" width="51" height="51" /></a>
