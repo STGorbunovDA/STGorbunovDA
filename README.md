@@ -12,20 +12,21 @@ I'm a Developer C#
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="assets/c%23.svg" width="51" height="51" alt="C" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/git-scm.png" width="51" height="51" alt="Git" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="assets/dotnet.svg" width="51" height="51" alt="Blazor" /></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="assets/dotnet.svg" width="51" height="51" alt="DOTNET" /></a>
 
 <a href="https://www.microsoft.com/ru-ru/sql-server" target="_blank" rel="noreferrer"><img src="assets/MSSQL.svg" width="51" height="51" alt="MSSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="assets/mysql2.svg" width="51" height="51" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/PostgreSQL.svg" width="51" height="51" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/PostgreSQL.svg" width="51" height="51" alt="PostgreSQL" /></a>
 
-<a href="/" target="_blank" rel="noreferrer"><img src="assets/xamarin.svg" width="51" height="51" alt="MySQL" /></a>
-<a href="/" target="_blank" rel="noreferrer"><img src="assets/net-maui.png" width="51" height="51" alt="MySQL" /></a>
-<a href="/" target="_blank" rel="noreferrer"><img src="assets/blazor.svg" width="51" height="51" alt="Blazor" /></a>
+<a href="https://learn.microsoft.com/en-us/previous-versions/xamarin/?view=vsmac-2019" target="_blank" rel="noreferrer"><img src="assets/xamarin.svg" width="51" height="51" alt="XAMARIN" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"><img src="assets/net-maui.png" width="51" height="51" alt="NETMAUI" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="assets/blazor.svg" width="51" height="51" alt="BLAZOR" /></a>
 
-<a href="/" target="_blank" rel="noreferrer"><img src="assets/asp.svg" width="51" height="51" alt="MySQL" /></a>
-<a href="/" target="_blank" rel="noreferrer"><img src="assets/docker.svg" width="51" height="51" alt="MySQL" /></a>
-<a href="/" target="_blank" rel="noreferrer"><img src="assets/EFCore.png" width="51" height="51" alt="MySQL" /></a>
+<a href="https://learn.microsoft.com/en-us/aspnet/overview" target="_blank" rel="noreferrer"><img src="assets/asp.svg" width="51" height="51" alt="ASP" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="assets/docker.svg" width="51" height="51" alt="DOCKER" /></a>
+<a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"><img src="assets/EFCore.png" width="51" height="51" alt="EFCore" /></a>
 
+<a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"><img src="assets/SignalR.svg" width="51" height="51" alt="EFCore" /></a>
 
 <a href="http://www.github.com/STGorbunovDA"><img src="https://github-readme-stats-qdnx.vercel.app/api?username=STGorbunovDA&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="STGorbunovDA's GitHub stats" /> </a>
 
