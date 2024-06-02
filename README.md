@@ -6,7 +6,7 @@ I'm a Developer C#
 
 * 🌍 I'm based in Nizhniy Novgorod
 * ✉️ You can contact me at [bous07@mail.ru](mailto:bous07@mail.ru) or [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DA_Gorbunov)
-* 🚀 I currently work for [Transneft](https://uppervolga.transneft.ru/) as a Developer
+* 🚀 I currently work for [Transneft](https://metrology.transneft.ru/) as a Developer
 * 🧠 Learning C# every day
 
 <p align="left">
